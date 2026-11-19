@@ -2,19 +2,19 @@
 
 A home screen and car control app for the **BYD Shark 6**, made by [Get Secured](https://getsecured.com.au).
 
-**Latest version: 1.1.2** · [What's new](https://github.com/jameswhite-getsec/knowyourbyd-releases/releases/tag/v1.1.2) · [All versions](https://github.com/jameswhite-getsec/knowyourbyd-releases/releases)
+**Latest version: 1.1.3** · [What's new](https://github.com/jameswhite-getsec/knowyourbyd-releases/releases/tag/v1.1.3) · [All versions](https://github.com/jameswhite-getsec/knowyourbyd-releases/releases)
 
 ## Download
 
 | Download | Use it for |
 | --- | --- |
-| **[Installer for Mac](https://github.com/jameswhite-getsec/knowyourbyd-releases/releases/download/v1.1.2/KnowYourBYD-Installer-Mac-1.1.2.zip)** | First install from a Mac (macOS 12 or later) |
-| **[Installer for Windows](https://github.com/jameswhite-getsec/knowyourbyd-releases/releases/download/v1.1.2/KnowYourBYD-Installer-1.1.2.zip)** | First install from a Windows PC |
-| [KnowYourBYD-1.1.2.apk](https://github.com/jameswhite-getsec/knowyourbyd-releases/releases/download/v1.1.2/KnowYourBYD-1.1.2.apk) | The app on its own, if you install by hand |
-| [KnowYourBYD-helper-1.1.2.apk](https://github.com/jameswhite-getsec/knowyourbyd-releases/releases/download/v1.1.2/KnowYourBYD-helper-1.1.2.apk) | The helper that reopens the app when the car wakes (the installers add it for you) |
-| [SHA256SUMS.txt](https://github.com/jameswhite-getsec/knowyourbyd-releases/releases/download/v1.1.2/SHA256SUMS.txt) | Checksums for the files above |
+| **[Installer for Mac](https://github.com/jameswhite-getsec/knowyourbyd-releases/releases/download/v1.1.3/KnowYourBYD-Installer-Mac-1.1.3.zip)** | First install from a Mac (macOS 12 or later) |
+| **[Installer for Windows](https://github.com/jameswhite-getsec/knowyourbyd-releases/releases/download/v1.1.3/KnowYourBYD-Installer-1.1.3.zip)** | First install from a Windows PC |
+| [KnowYourBYD-1.1.3.apk](https://github.com/jameswhite-getsec/knowyourbyd-releases/releases/download/v1.1.3/KnowYourBYD-1.1.3.apk) | The app on its own, if you install by hand |
+| [KnowYourBYD-helper-1.1.3.apk](https://github.com/jameswhite-getsec/knowyourbyd-releases/releases/download/v1.1.3/KnowYourBYD-helper-1.1.3.apk) | The helper that reopens the app when the car wakes (the installers add it for you) |
+| [SHA256SUMS.txt](https://github.com/jameswhite-getsec/knowyourbyd-releases/releases/download/v1.1.3/SHA256SUMS.txt) | Checksums for the files above |
 
-Most people only need the installer for their computer. It downloads the app itself.
+Most people only need the installer for their computer. It downloads the app itself, and next time reuses that download if it's still the latest.
 
 ## First install
 
@@ -53,7 +53,7 @@ the Mac installer. Certificate SHA-256:
 
 `54:59:63:41:30:B1:F0:E3:2A:2A:83:65:89:59:58:34:B9:22:FD:C4:75:6B:43:93:54:CE:7C:5E:4B:77:A7:8B`
 
-To check one yourself: `apksigner verify --print-certs KnowYourBYD-1.1.2.apk`
+To check one yourself: `apksigner verify --print-certs KnowYourBYD-1.1.3.apk`
 
 ## Support and licence
 
